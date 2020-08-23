@@ -2,4 +2,6 @@
 
 ## How to start the project:
 
-django-admin startproject pyShop .
+**on the terminal** just type:
+
+- django-admin startproject pyShop .
