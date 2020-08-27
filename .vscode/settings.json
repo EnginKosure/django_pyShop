@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "python.pythonPath": "/Users/enginkosure/Documents/trials_2/django_pyShop/.venv/bin/python3"
 }
